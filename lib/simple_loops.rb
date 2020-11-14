@@ -25,7 +25,7 @@ def output_array(array)
   end
 end
 
-return_string_array(array)
+return_string_array()
   
   
   
