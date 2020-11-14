@@ -11,7 +11,7 @@ def output_array(array)
 array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
 end
 
-output_array
+output_array(array)
 
 
   
