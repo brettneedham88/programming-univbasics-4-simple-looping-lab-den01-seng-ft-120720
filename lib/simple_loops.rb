@@ -26,6 +26,8 @@ def output_array(array)
 end
 
 output_array([5, 4, 3, 2, 1])
+
+
   
   
   
