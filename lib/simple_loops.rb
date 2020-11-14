@@ -25,7 +25,7 @@ def output_array(array)
   end
 end
 
-return_string_array([5, 4, 3, 2, 1])
+([5, 4, 3, 2, 1])
   
   
   
